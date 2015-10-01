@@ -3,6 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+/*
+* Desarrollado por :
+*   Patrick Ordoñez: 131062
+*   Manolo Ramirez: 14005
+*/
 package hojadetrabajo8;
 
 import java.io.BufferedReader;
